@@ -1,0 +1,81 @@
+region	week_start_date	weekly_target_revenue	business_unit	target_owner	planning_cycle	target_status	comments
+North	2025-01-06 00:00:00		BU1	Owner	Q1	Active	
+North	2025-01-13 00:00:00		BU1	Owner	Q1	Active	
+North	2025-01-20 00:00:00		BU1	Owner	Q1	Active	
+North	2025-01-27 00:00:00		BU1	Owner	Q1	Active	
+North	2025-02-03 00:00:00		BU1	Owner	Q1	Active	
+North	2025-02-10 00:00:00	316359	BU1	Owner	Q1	Active	
+North	2025-02-17 00:00:00	419162	BU1	Owner	Q1	Active	
+North	2025-02-24 00:00:00	443689	BU1	Owner	Q1	Active	
+North	2025-03-03 00:00:00	367869	BU1	Owner	Q1	Active	
+North	2025-03-10 00:00:00	412867	BU1	Owner	Q1	Active	
+south	2025-03-17 00:00:00	206523	BU1	Owner	Q1	Active	
+ SOUTH 	2025-03-24 00:00:00	340521	BU1	Owner	Q1	Active	
+SOUTH	2025-03-31 00:00:00	352317	BU1	Owner	Q1	Active	
+south	2025-04-07 00:00:00	467745	BU1	Owner	Q1	Active	
+ SOUTH 	2025-04-14 00:00:00	293315	BU1	Owner	Q1	Active	
+SOUTH	2025-04-21 00:00:00	268984	BU1	Owner	Q1	Active	
+south	2025-04-28 00:00:00	305713	BU1	Owner	Q1	Active	
+ SOUTH 	2025-05-05 00:00:00	251117	BU1	Owner	Q1	Active	
+SOUTH	2025-05-12 00:00:00	367527	BU1	Owner	Q1	Active	
+south	2025-05-19 00:00:00	392841	BU1	Owner	Q1	Active	
+South	2025-01-06 00:00:00	440335	BU1	Owner	Q1	Active	
+South	2025-01-13 00:00:00	491598	BU1	Owner	Q1	Active	
+South	2025-01-20 00:00:00	222081	BU1	Owner	Q1	Active	
+South	2025-01-27 00:00:00	274176	BU1	Owner	Q1	Active	
+South	2025-02-03 00:00:00	290213	BU1	Owner	Q1	Active	
+South	2025-02-10 00:00:00	274901	BU1	Owner	Q1	Active	
+South	2025-02-17 00:00:00	448184	BU1	Owner	Q1	Active	
+South	2025-02-24 00:00:00	241849	BU1	Owner	Q1	Active	
+South	2025-03-03 00:00:00	208921	BU1	Owner	Q1	Active	
+South	2025-03-10 00:00:00	458169	BU1	Owner	Q1	Active	
+South	2025-03-24 00:00:00	267919	BU1	Owner	Q1	Active	
+South	2025-03-31 00:00:00	299856	BU1	Owner	Q1	Active	
+South	2025-04-07 00:00:00	350953	BU1	Owner	Q1	Active	
+South	2025-04-07 00:00:00	350953	BU1	Owner	Q1	Active	
+South	2025-04-14 00:00:00	357784	BU1	Owner	Q1	Active	
+South	2025-04-21 00:00:00	497261	BU1	Owner	Q1	Active	
+South	2025-04-28 00:00:00	321246	BU1	Owner	Q1	Active	
+South	2025-05-05 00:00:00	203642	BU1	Owner	Q1	Active	
+South	2025-05-12 00:00:00	326827	BU1	Owner	Q1	Active	
+South	2025-05-19 00:00:00	366945	BU1	Owner	Q1	Active	
+East	2025-01-06 00:00:00	355066	BU1	Owner	Q1	Active	
+East	2025-01-13 00:00:00	353686	BU1	Owner	Q1	Active	
+East	2025-01-20 00:00:00	476784	BU1	Owner	Q1	Active	
+East	2025-01-27 00:00:00	442234	BU1	Owner	Q1	Active	
+East	2025-02-03 00:00:00	275512	BU1	Owner	Q1	Active	
+East	2025-02-10 00:00:00	306584	BU1	Owner	Q1	Active	
+East	2025-02-17 00:00:00	400274	BU1	Owner	Q1	Active	
+East	2025-02-24 00:00:00	323102	BU1	Owner	Q1	Active	
+East	2025-03-03 00:00:00	328520	BU1	Owner	Q1	Active	
+East	2025-03-10 00:00:00	250381	BU1	Owner	Q1	Active	
+East	2025-03-17 00:00:00	276310		Owner	Q1	Active	
+East	2025-03-24 00:00:00	422244		Owner	Q1	Active	
+East	2025-03-31 00:00:00	452879		Owner	Q1	Active	
+East	2025-04-07 00:00:00	435412		Owner	Q1	Active	
+East	2025-04-14 00:00:00	292350	BU1	Owner	Q1	Active	
+East	2025-04-21 00:00:00	240998	BU1	Owner	Q1	Active	
+East	2025-04-28 00:00:00	247908	BU1	Owner	Q1	Active	
+East	2025-05-05 00:00:00	318037	BU1	Owner	Q1	Active	
+East	2025-05-12 00:00:00	355326	BU1	Owner	Q1	Active	
+East	2025-05-19 00:00:00	467871	BU1	Owner	Q1	Active	
+West	2025-01-06 00:00:00	469648	BU1	Owner	Q1	Active	
+West	2025-01-13 00:00:00	200812	BU1	Owner	Q1	Active	
+West	2025-01-20 00:00:00	412268	BU1	Owner	Q1	Active	
+West	2025-01-27 00:00:00	289627	BU1	Owner	Q1	Active	
+West	2025-02-03 00:00:00	259340	BU1	Owner	Q1	Active	
+West	2025-02-10 00:00:00	366512	BU1	Owner	Q1	Active	
+West	2025-02-17 00:00:00	210173	BU1	Owner	Q1	Active	
+West	2025-02-24 00:00:00	300228	BU1	Owner	Q1	Active	
+West	2025-03-03 00:00:00	365667	BU1	Owner	Q1	Active	
+West	2025-03-10 00:00:00	281613	BU1	Owner	Q1	Active	
+West	2025-03-17 00:00:00	378017	BU1	Owner	Q1	Active	
+West	2025-03-24 00:00:00	338011	BU1	Owner	Q1	Active	
+West	2025-03-31 00:00:00	439822	BU1	Owner	Q1	Active	
+West	2025-04-07 00:00:00	254456	BU1	Owner	Q1	Active	
+West	2025-04-14 00:00:00	217130	BU1	Owner	Q1	Active	
+West	2025-04-21 00:00:00	358887	BU1	Owner	Q1	Active	
+West	2025-04-28 00:00:00	277068	BU1	Owner	Q1	Active	
+West	2025-05-05 00:00:00	412008	BU1	Owner	Q1	Active	
+West	2025-05-12 00:00:00	227985	BU1	Owner	Q1	Active	
+West	2025-05-19 00:00:00	372588	BU1	Owner	Q1	Active	
