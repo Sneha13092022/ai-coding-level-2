@@ -1,0 +1,151 @@
+customer_id	customer_name	signup_date	age	region	industry	customer_segment	country	customer_status	annual_contract_value	account_manager	source_system
+CUST1001	Customer_0	2023-03-13 00:00:00	58		Technology	SMB	India	Active	278739	AM4	CRM
+CUST1002	Customer_1	2024-09-11 00:00:00	31		Technology	Mid Market	India	Inactive	214213	AM2	CRM
+CUST1003	Customer_2	2024-06-07 00:00:00	61		Manufacturing	Mid Market	India	Active	275785	AM4	CRM
+CUST1004	Customer_3	2023-12-18 00:00:00	31		Retail	Enterprise	India	Active	481293	AM4	CRM
+CUST1005	Customer_4	2023-12-13 00:00:00	38		Healthcare	Mid Market	India	Active	84474	AM3	CRM
+CUST1005	Customer_5	2024-11-17 00:00:00	49		Healthcare	SMB	India	Active	497959	AM4	CRM
+CUST1006	Customer_6	2023-03-10 00:00:00	23		Retail	Enterprise	India	Inactive	252310	AM3	CRM
+CUST1007	Customer_7	2024-07-11 00:00:00	44		Healthcare	SMB	India	Active	397447	AM3	CRM
+CUST1008	Customer_8	2023-06-11 00:00:00	41	South	Technology	Mid Market	India	Active	241011	AM2	CRM
+CUST1009	Customer_9	2023-03-17 00:00:00	54	North	Retail	Mid Market	India	Active	189932	AM4	CRM
+CUST1010	Customer_10	2024-02-26 00:00:00	64	East	Healthcare	Mid Market	India	Inactive	396769	AM3	CRM
+CUST1011	Customer_11	2025-02-19 00:00:00	49	East	Retail	SMB	India	Active	359449	AM4	CRM
+CUST1012	Customer_12	2024-08-11 00:00:00	37	North	Healthcare	Mid Market	India	Inactive	114826	AM2	CRM
+CUST1013	Customer_13	2024-08-31 00:00:00	37	South	Manufacturing	SMB	India	Active	367432	AM4	CRM
+CUST1014	Customer_14	2024-07-27 00:00:00	37	North	Retail	Mid Market	India	Active	388884	AM1	CRM
+CUST1015	Customer_15	2024-09-20 00:00:00	56	East	Technology	SMB	India	Active	224528	AM1	CRM
+CUST1016	Customer_16	2024-02-15 00:00:00	33	East	Retail	Enterprise	India	Active	466542	AM3	CRM
+CUST1017	Customer_17	2023-04-13 00:00:00	25	East	Healthcare	Enterprise	India	Active	338399	AM3	CRM
+CUST1018	Customer_18	2024-11-02 00:00:00	33	West	Retail	Enterprise	India	Active	200132	AM4	CRM
+CUST1019	Customer_19	2023-12-27 00:00:00	19	West	Technology	Enterprise	India	Active	54827	AM2	CRM
+CUST1020	Customer_20	2024-02-05 00:00:00		South	Healthcare	SMB	India	Active	353732	AM3	CRM
+CUST1021	Customer_21	2023-10-24 00:00:00		North	Technology	SMB	India	Active	144075	AM3	CRM
+CUST1022	Customer_22	2023-05-27 00:00:00		East	Manufacturing	Enterprise	India	Active	390436	AM4	CRM
+CUST1023	Customer_23	2025-01-11 00:00:00		West	Manufacturing	SMB	India	Active	286289	AM3	CRM
+CUST1024	Customer_24	2024-09-17 00:00:00		West	Healthcare	SMB	India	Active	260026	AM2	CRM
+CUST1025	Customer_25	2024-05-30 00:00:00	39	North	Technology	Enterprise	India	Active	123688	AM4	CRM
+CUST1026	Customer_26	2023-11-18 00:00:00	51	North	Technology	SMB	India	Inactive	370177	AM1	CRM
+CUST1027	Customer_27	2024-10-20 00:00:00	25	North	Retail	SMB	India	Active	124658	AM4	CRM
+CUST1028	Customer_28	2024-03-12 00:00:00	60	North	Healthcare	SMB	India	Active	237989	AM1	CRM
+CUST1029	Customer_29	2023-12-21 00:00:00	41	East	Retail	SMB	India	Inactive	426336	AM2	CRM
+CUST1030	Customer_30	2023-12-27 00:00:00	62	East	Manufacturing	Mid Market	India	Active	464164	AM4	CRM
+CUST1031	Customer_31	2023-07-01 00:00:00	25	South	Technology	Enterprise	India	Active	495109	AM3	CRM
+CUST1032	Customer_32	2023-03-15 00:00:00	41	South	Manufacturing	SMB	India	Active	481105	AM4	CRM
+CUST1033	Customer_33	2024-03-19 00:00:00	50	West	Technology	SMB	India	Active	300186	AM3	CRM
+CUST1034	Customer_34	2024-12-11 00:00:00	41	South	Manufacturing	Enterprise	India	Inactive	140216	AM3	CRM
+CUST1035	Customer_35	2023-02-21 00:00:00	38	West	Retail	Mid Market	India	Active	427581	AM2	CRM
+CUST1036	Customer_36	2024-11-17 00:00:00	25	West	Manufacturing	Enterprise	India	Active	410733	AM1	CRM
+CUST1037	Customer_37	2024-10-24 00:00:00	35	South	Healthcare	Enterprise	India	Active	495644	AM1	CRM
+CUST1038	Customer_38	2023-08-10 00:00:00	29	North	Technology	Mid Market	India	Active	342926	AM2	CRM
+CUST1039	Customer_39	2024-05-20 00:00:00	32	West	Healthcare	Mid Market	India	Active	113718	AM1	CRM
+CUST1040	Customer_40	2023-05-13 00:00:00	50	East	Technology	Enterprise	India	Active	276305	AM3	CRM
+CUST1041	Customer_41	2024-08-29 00:00:00	47	South	Technology	enterprise	India	Active	251710	AM4	CRM
+CUST1042	Customer_42	2024-07-14 00:00:00	46	East	Technology	 ENTERPRISE 	India	Active	429326	AM4	CRM
+CUST1043	Customer_43	2023-10-11 00:00:00	35	East	Healthcare	Enterprise 	India	Active	226657	AM2	CRM
+CUST1044	Customer_44	2023-02-24 00:00:00	63	West	Manufacturing	Enterprise	India	Inactive	197866	AM4	CRM
+CUST1045	Customer_45	2025-02-15 00:00:00	22	South	Manufacturing	enterprise	India	Active	86022	AM4	CRM
+CUST1046	Customer_46	2023-12-23 00:00:00	34	West	Retail	 ENTERPRISE 	India	Active	425955	AM4	CRM
+CUST1047	Customer_47	2024-12-15 00:00:00	23	West	Manufacturing	Enterprise 	India	Active	389898	AM2	CRM
+CUST1048	Customer_48	2024-06-26 00:00:00	33	North	Technology	Enterprise	India	Active	68552	AM2	CRM
+CUST1049	Customer_49	2024-09-14 00:00:00	63	North	Manufacturing	enterprise	India	Active	245200	AM4	CRM
+CUST1050	Customer_50	2024-08-30 00:00:00	35	East	Retail	 ENTERPRISE 	India	Active	265873	AM1	CRM
+CUST1051	Customer_51	2023-06-05 00:00:00	60	North	Healthcare	Enterprise 	India	Active	261197	AM2	CRM
+CUST1052	Customer_52	2023-10-19 00:00:00	41	South	Technology	Enterprise	India	Active	463519	AM1	CRM
+CUST1053	Customer_53	2024-01-09 00:00:00	50	South	Technology	enterprise	India	Active	117802	AM4	CRM
+CUST1054	Customer_54	2024-02-03 00:00:00	39	West	Manufacturing	 ENTERPRISE 	India	Active	187855	AM3	CRM
+CUST1055	Customer_55	2023-02-05 00:00:00	30	West	Manufacturing	SMB	India	Inactive	131416	AM1	CRM
+CUST1056	Customer_56	2024-03-13 00:00:00	53	North	Healthcare	Mid Market	India	Active	159838	AM1	CRM
+CUST1057	Customer_57	2023-05-04 00:00:00	63	West	Retail	SMB	India	Active	458196	AM3	CRM
+CUST1058	Customer_58	2024-08-17 00:00:00	30	North	Manufacturing	Enterprise	India	Active	473324	AM3	CRM
+CUST1059	Customer_59	2024-06-30 00:00:00	54	East	Retail	Enterprise	India	Active	70092	AM4	CRM
+CUST1060	Customer_60	2025-01-08 00:00:00	30	West	Technology	Enterprise	India	Active	334441	AM2	CRM
+CUST1061	Customer_61	2024-08-18 00:00:00	51	West	Healthcare	Mid Market	India	Active	154783	AM4	CRM
+CUST1062	Customer_62	2023-10-21 00:00:00	55	North	Technology	Enterprise	India	Active	136652	AM2	CRM
+CUST1063	Customer_63	2025-02-13 00:00:00	39	West	Technology	Enterprise	India	Active	181426	AM4	CRM
+CUST1064	Customer_64	2023-11-25 00:00:00	52	North	Technology	SMB	India	Active	137474	AM1	CRM
+CUST1065	Customer_65	2023-09-18 00:00:00	30	East	Retail	Mid Market	India	Active	270588	AM1	CRM
+CUST1066	Customer_66	2024-12-25 00:00:00	21	South	Technology	SMB	India	Active	498024	AM1	CRM
+CUST1067	Customer_67	2023-10-24 00:00:00	22	South	Retail	Mid Market	India	Active	313900	AM2	CRM
+CUST1068	Customer_68	2023-03-03 00:00:00	39	North	Manufacturing	Mid Market	India	Active	375459	AM4	CRM
+CUST1069	Customer_69	2024-01-11 00:00:00	60	West	Healthcare	Enterprise	India	Active	271980	AM1	CRM
+CUST1070	Customer_70	2024-09-28 00:00:00	23	South	Manufacturing	Mid Market	India	Active	56258	AM2	CRM
+CUST1071	Customer_71	2023-06-01 00:00:00	39	East	Retail	SMB	India	Inactive	87851	AM1	CRM
+CUST1072	Customer_72	2024-01-06 00:00:00	51	South	Retail	SMB	India	Active	170992	AM4	CRM
+CUST1073	Customer_73	2023-04-14 00:00:00	27	South	Technology	Enterprise	India	Active	159650	AM3	CRM
+CUST1074	Customer_74	2024-07-03 00:00:00	51	West	Manufacturing	SMB	India	Active	428260	AM4	CRM
+CUST1075	Customer_75	2024-01-16 00:00:00	32	North	Manufacturing	Mid Market	India	Active	429614	AM3	CRM
+CUST1076	Customer_76	2023-09-22 00:00:00	56	East	Technology	SMB	India	Active	434354	AM3	CRM
+CUST1077	Customer_77	2023-07-01 00:00:00	45	East	Retail	Enterprise	India	Active	336914	AM4	CRM
+CUST1078	Customer_78	2024-03-27 00:00:00	43	South	Technology	SMB	India	Active	300277	AM1	CRM
+CUST1079	Customer_79	2024-06-19 00:00:00	26	South	Technology	Mid Market	India	Active	342117	AM4	CRM
+CUST1080	Customer_80	2025-01-22 00:00:00	39	North	Healthcare	Mid Market	India	Active	233063	AM3	CRM
+CUST1081	Customer_81	2023-12-16 00:00:00	58	West	Retail	Enterprise	India	Inactive	351591	AM3	CRM
+CUST1082	Customer_82	2023-05-09 00:00:00	18	West	Retail	Mid Market	India	Active	407499	AM2	CRM
+CUST1083	Customer_83	2024-10-28 00:00:00	53	North	Manufacturing	Mid Market	India	Active	393306	AM4	CRM
+CUST1084	Customer_84	2024-05-18 00:00:00	41	North	Healthcare	Enterprise	India	Active	326223	AM2	CRM
+CUST1085	Customer_85	2024-07-14 00:00:00	51	North	Retail	Mid Market	India	Active	76148	AM1	CRM
+CUST1086	Customer_86	2023-03-19 00:00:00	49	North	Manufacturing	SMB	India	Active	376227	AM4	CRM
+CUST1087	Customer_87	2023-09-07 00:00:00	38	West	Retail	SMB	India	Inactive	214973	AM1	CRM
+CUST1088	Customer_88	2024-09-06 00:00:00	32	West	Healthcare	SMB	India	Active	384650	AM1	CRM
+CUST1089	Customer_89	2024-10-27 00:00:00	47	North	Retail	Mid Market	India	Active	292787	AM3	CRM
+CUST1090	Customer_90	2023-12-15 00:00:00	24	East	Healthcare	Mid Market	India	Active	446533	AM1	CRM
+CUST1091	Customer_91	2024-10-05 00:00:00	45	North	Retail	Mid Market	India	Active	202305	AM4	CRM
+CUST1092	Customer_92	2024-11-04 00:00:00	22	South	Retail	Mid Market	India	Inactive	469127	AM2	CRM
+CUST1093	Customer_93	2023-11-06 00:00:00	48	East	Retail	Mid Market	India	Active	430015	AM1	CRM
+CUST1094	Customer_94	2024-12-19 00:00:00	47	East	Technology	Enterprise	India	Active	198998	AM4	CRM
+CUST1095	Customer_95	2023-08-19 00:00:00	21	West	Retail	Enterprise	India	Active	267157	AM3	CRM
+CUST1096	Customer_96	2023-07-11 00:00:00	53	North	Manufacturing	Mid Market	India	Active	289106	AM2	CRM
+CUST1097	Customer_97	2024-06-29 00:00:00	37	North	Healthcare	SMB	India	Active	395882	AM3	CRM
+CUST1098	Customer_98	2024-05-24 00:00:00	54	South	Healthcare	Enterprise	India	Active	360120	AM3	CRM
+CUST1099	Customer_99	2023-04-22 00:00:00	19	South	Healthcare	Enterprise	India	Active	433406	AM1	CRM
+CUST1100	Customer_100	2024-10-28 00:00:00	26	West	Technology	SMB	India	Active	216440	AM4	CRM
+CUST1101	Customer_101	2023-06-09 00:00:00	41	West	Manufacturing	SMB	India	Active	277156	AM2	CRM
+CUST1102	Customer_102	2024-10-05 00:00:00	26	South	Technology	Enterprise	India	Active	243889	AM3	CRM
+CUST1103	Customer_103	2023-01-06 00:00:00	33	West	Manufacturing	Enterprise	India	Active	459298	AM4	CRM
+CUST1104	Customer_104	2024-09-29 00:00:00	49	South	Technology	Enterprise	India	Active	187241	AM3	CRM
+CUST1105	Customer_105	2024-09-21 00:00:00	24	East	Healthcare	SMB	India	Active	314205	AM3	CRM
+CUST1106	Customer_106	2024-09-16 00:00:00	49	South	Healthcare	Enterprise	India	Active	104074	AM2	CRM
+CUST1107	Customer_107	2024-06-15 00:00:00	22	North	Technology	SMB	India	Active	432623	AM1	CRM
+CUST1108	Customer_108	2024-01-13 00:00:00	26	West	Technology	SMB	India	Active	222898	AM2	CRM
+CUST1109	Customer_109	2024-07-18 00:00:00	45	North	Technology	SMB	India	Active	203265	AM4	CRM
+CUST1110	Customer_110	2023-08-10 00:00:00	55	North	Healthcare	Mid Market	India	Active	312312	AM3	CRM
+CUST1111	Customer_111	2024-09-16 00:00:00	26	North	Retail	SMB	India	Active	274467	AM2	CRM
+CUST1112	Customer_112	2024-03-20 00:00:00	32	South	Manufacturing	Mid Market	India	Active	431589	AM4	CRM
+CUST1113	Customer_113	2024-01-03 00:00:00	61	North	Retail	Mid Market	India	Active	289134	AM4	CRM
+CUST1114	Customer_114	2024-02-09 00:00:00	64	North	Technology	Mid Market	India	Active	282647	AM4	CRM
+CUST1115	Customer_115	2024-03-30 00:00:00	45	East	Retail	Mid Market	India	Active	97240	AM2	CRM
+CUST1116	Customer_116	2023-01-30 00:00:00	39	West	Retail	SMB	India	Active	59872	AM3	CRM
+CUST1117	Customer_117	2023-04-22 00:00:00	34	North	Retail	SMB	India	Active	229348	AM3	CRM
+CUST1118	Customer_118	2023-07-16 00:00:00	46	South	Healthcare	Enterprise	India	Active	499192	AM2	CRM
+CUST1119	Customer_119	2023-04-02 00:00:00	45	East	Healthcare	SMB	India	Active	462801	AM2	CRM
+CUST1120	Customer_120	2023-12-18 00:00:00	31	West	Technology	Enterprise	India	Active	333040	AM1	CRM
+CUST1121	Customer_121	2024-06-18 00:00:00	19	East	Manufacturing	Mid Market	India	Active	333874	AM2	CRM
+CUST1122	Customer_122	2024-06-07 00:00:00	25	West	Manufacturing	Mid Market	India	Active	226176	AM3	CRM
+CUST1123	Customer_123	2024-01-12 00:00:00	63	East	Retail	Enterprise	India	Active	129877	AM4	CRM
+CUST1124	Customer_124	2024-11-15 00:00:00	37	South	Retail	Mid Market	India	Active	53846	AM4	CRM
+CUST1125	Customer_125	2024-03-28 00:00:00	40	North	Manufacturing	Enterprise	India	Active	202485	AM1	CRM
+CUST1126	Customer_126	2023-03-05 00:00:00	39	West	Technology	Mid Market	India	Active	192410	AM3	CRM
+CUST1127	Customer_127	2024-09-03 00:00:00	54	West	Healthcare	Enterprise	India	Inactive	136221	AM1	CRM
+CUST1128	Customer_128	2024-04-04 00:00:00	21	North	Technology	SMB	India	Active	166625	AM3	CRM
+CUST1129	Customer_129	2024-05-22 00:00:00	21	East	Retail	SMB	India	Active	61170	AM2	CRM
+CUST1130	Customer_130	2024-03-28 00:00:00	30	North	Retail	Mid Market	India	Active	323582	AM2	CRM
+CUST1131	Customer_131	2024-03-18 00:00:00	40	East	Technology	SMB	India	Active	467357	AM3	CRM
+CUST1132	Customer_132	2023-03-14 00:00:00	49	West	Retail	Mid Market	India	Active	360859	AM2	CRM
+CUST1133	Customer_133	2024-03-23 00:00:00	41	North	Retail	Mid Market	India	Active	251693	AM4	CRM
+CUST1134	Customer_134	2024-09-27 00:00:00	38	South	Manufacturing	Enterprise	India	Active	239120	AM3	CRM
+CUST1135	Customer_135	2023-09-01 00:00:00	62	North	Technology	Mid Market	India	Active	188390	AM4	CRM
+CUST1136	Customer_136	2024-04-27 00:00:00	25	East	Healthcare	Mid Market	India	Active	114082	AM3	CRM
+CUST1137	Customer_137	2023-01-25 00:00:00	44	West	Retail	SMB	India	Active	319314	AM2	CRM
+CUST1138	Customer_138	2023-10-05 00:00:00	43	North	Technology	Mid Market	India	Active	304935	AM4	CRM
+CUST1139	Customer_139	2023-12-16 00:00:00	40	South	Technology	Mid Market	India	Active	53291	AM2	CRM
+CUST1140	Customer_140	2025-02-25 00:00:00	55	West	Technology	Mid Market	India	Active	236984	AM3	CRM
+CUST1141	Customer_141	2023-06-21 00:00:00	30	South	Technology	Mid Market	India	Active	175109	AM1	CRM
+CUST1142	Customer_142	2023-08-10 00:00:00	62	North	Retail	SMB	India	Active	126626	AM1	CRM
+CUST1143	Customer_143	2023-11-23 00:00:00	33	South	Technology	Enterprise	India	Active	366365	AM3	CRM
+CUST1144	Customer_144	2025-03-05 00:00:00	43	East	Manufacturing	Mid Market	India	Active	286621	AM1	CRM
+CUST1145	Customer_145	2024-11-13 00:00:00	42	East	Technology	SMB	India	Active	335196	AM4	CRM
+CUST1146	Customer_146	2023-01-28 00:00:00	57	South	Healthcare	SMB	India	Active	371066	AM4	CRM
+CUST1147	Customer_147	2023-07-07 00:00:00	38	West	Technology	Enterprise	India	Active	491812	AM3	CRM
+CUST1148	Customer_148	2024-10-19 00:00:00	31	East	Healthcare	Enterprise	India	Active	411243	AM3	CRM
+CUST1149	Customer_149	2023-02-16 00:00:00	19	South	Healthcare	Enterprise	India	Active	329160	AM3	CRM
